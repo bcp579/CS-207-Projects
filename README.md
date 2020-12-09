@@ -8,8 +8,8 @@ This Laser Security System is all about a smart security system. There should be
 
  This Repository has the contents as follows:
 
-* /ARDUINO CODE - This is the main code file that runs the whole project.
-* /PYTHON CODE - This code file will help you to send message to the phone.
+* /Laser_Securuty_System - This is the main code file that runs the whole project.
+* /movement.py - This code file will help you to send message to the phone.
 * /LICENSE - License file.
 * /README.md - The current file.
 
