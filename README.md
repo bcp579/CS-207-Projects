@@ -25,6 +25,8 @@ The Required Materials to complete this project are as follows:
 # Build Instructions
 To build the hardware section more easily. Here is the 3D Breadboard view of my Laser Security System given below:
 
+![Design](https://user-images.githubusercontent.com/72901112/101562842-cd272a00-398d-11eb-9de5-a71a1e067ed8.png)
+
 
 # Usage
 The following few steps you should do:
