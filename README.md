@@ -8,7 +8,7 @@ This Laser Security System is all about a smart security system. There should be
 
  This Repository has the contents as follows:
 
-* /Laser_Securuty_System - This is the main code file that runs the whole project.
+* /Laser_Securuty_System.ino - This is the main code file that runs the whole project.
 * /movement.py - This code file will help you to send message to the phone.
 * /LICENSE - License file.
 * /README.md - The current file.
