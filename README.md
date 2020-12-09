@@ -6,22 +6,22 @@ This Laser Security System is all about a smart security system. There should be
 # Repository Contents
 This Repository has the contents as follows:
 
-*/ARDUINO CODE - This is the main code file that runs the whole project.
-*/PYTHON CODE - This code file will help you to send message to the phone.
-*/LICENSE - License file.
-*/README.md - The current file.
+* /ARDUINO CODE - This is the main code file that runs the whole project.
+* /PYTHON CODE - This code file will help you to send message to the phone.
+* /LICENSE - License file.
+* /README.md - The current file.
 # Requirements and Materials
 The Required Materials to complete this project are as follows:
 
-*1 x Arduino UNO
-*1 x Breadboard
-*1 x Buzzer
-*6 x leds
-*8 x Resistors
-*1 x Button
-*1 x LDR photo resistor
-*18 x Jumper wires
-*1 x laser
+* 1 x Arduino UNO
+* 1 x Breadboard
+* 1 x Buzzer
+* 6 x leds
+* 8 x Resistors
+* 1 x Button
+* 1 x LDR photo resistor
+* 18 x Jumper wires
+* 1 x laser
 # Build Instructions
 To build the hardware section more easily. Here is the 3D Breadboard view of my Laser Security System given below:
 
